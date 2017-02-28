@@ -1,0 +1,6 @@
+﻿  physics.cpp
+c:\users\edeleon\documents\gl_framework\src\physics.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  GL_framework.vcxproj -> C:\Users\edeleon\Documents\GL_framework\x64\Debug\GL_framework.exe
+  GL_framework.vcxproj -> C:\Users\edeleon\Documents\GL_framework\x64\Debug\GL_framework.pdb (Partial PDB)
+  0 File(s) copied
+  0 File(s) copied
